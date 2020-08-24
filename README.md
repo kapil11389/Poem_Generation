@@ -7,7 +7,7 @@ A Deep Learning Model that writes poems based on Shakespeare's work.
 Intel i5 processor is used for training the model.
 Python 3.3+ , Keras 2+ , Tensorflow 1.15+ , Pandas 0.24+, Numpy 1.5+
 
-# Conents
+# Contents
 
 Poem Generation.ipynb :  Contains the Deep Learning model ,data preprocessing and training of Model.
 
