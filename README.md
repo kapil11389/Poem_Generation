@@ -41,6 +41,7 @@ Here 100 characters are being used to predict 101th character.
 
 # Training the Model
 
+![image](https://user-images.githubusercontent.com/41421032/91067400-7ac93400-e650-11ea-9cf0-816704dfceaf.png)
 
 # Generating text
 
