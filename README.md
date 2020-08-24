@@ -5,13 +5,14 @@ A Deep Learning Model that writes poems based on Shakespeare's work.
 # Requirements
 
 Intel i5 processor is used for training the model.
+
 Python 3.3+ , Keras 2+ , Tensorflow 1.15+ , Pandas 0.24+, Numpy 1.5+
 
 # Contents
 
 Poem Generation.ipynb :  Contains the Deep Learning model ,data preprocessing and training of Model.
 
-Sonnets.txt :  The full compilation of Shakespeare's literary works containing poems.
+Sonnets.txt :  The full compilation of Shakespeare's literary work containing poems.
 
 Weights.h5 :  Contains the weights associated with the Trained Model.
 
@@ -43,7 +44,7 @@ Here 100 characters are being used to predict 101th character.
 
 # Generating text
 
-We finally use the generated model to predict one character at a time. We use this characters and generate another character and the cycle goes on.
+We finally use the generated model to predict one character at a time. We use thess characters and generate another character and the cycle goes on.
 
 ![image](https://user-images.githubusercontent.com/41421032/91055783-bfe66980-e642-11ea-96b1-5598ec0551fc.png)
 
