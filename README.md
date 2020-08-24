@@ -40,9 +40,12 @@ Here 100 characters are being used to predict 101th character.
 
 # Training the Model
 
+
 # Generating text
+
 We finally use the generated model to predict one character at a time. We use this characters and generate another character and the cycle goes on.
 
+![image](https://user-images.githubusercontent.com/41421032/91055783-bfe66980-e642-11ea-96b1-5598ec0551fc.png)
 
 # Observations:
 
